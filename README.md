@@ -4,11 +4,6 @@ A classic 2D side-scroller game built with vanilla JavaScript, HTML, and CSS. Th
 
 **Live Demo:** [**https://tohzen.github.io/sideScroller/**](https://tohzen.github.io/sideScroller/)
 
-## Screenshot
-
-![Screenshot of the Side-Scroller Game](PASTE_SCREENSHOT_HERE)
-*(Instruction: Take a screenshot of your game and upload it to the repository, then replace `PASTE_SCREENSHOT_HERE` with the link to the image)*
-
 ## Tech Stack
 
 * **Front-End:** HTML5, CSS3, JavaScript (ES6)
